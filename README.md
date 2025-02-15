@@ -3,11 +3,15 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Vítor Albuquerque Dinelli
+Matricula: 885071
 
 ## Tela de inspeção com navegador
 
+![alt text](inspecNetwork.png)
+
 
 ## Tela de projeto no Replit
+
+![alt text](projetoReplit.png)
 
